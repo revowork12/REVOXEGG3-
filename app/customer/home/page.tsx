@@ -9,7 +9,7 @@ export default function CustomerHome() {
         {/* Header Section */}
         <div className="text-center mb-16">
           <h1 className="font-bold text-navy mb-4 font-montserrat uppercase tracking-wider" style={{ fontSize: '3.25rem' }}>
-            EGGCELENT
+            Hoschailine
           </h1>
           <p className="text-lg md:text-xl text-navy font-medium">
             Order smart. Eat smart.
@@ -21,8 +21,8 @@ export default function CustomerHome() {
           <div className="max-w-2xl mx-auto">
             <div className="relative aspect-square overflow-hidden rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
               <Image
-                src="/latest-image.jpg"
-                alt="Featured dish"
+                src="/new-homepage-image.jpg"
+                alt="Hoschailine featured image"
                 fill
                 className="object-cover object-bottom hover:scale-105 transition-transform duration-300"
                 sizes="(max-width: 640px) 100vw, (max-width: 1024px) 80vw, 50vw"
