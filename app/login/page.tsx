@@ -35,7 +35,7 @@ export default function LoginPage() {
           {/* Logo/Header */}
           <div className="text-center mb-8">
             <h1 className="text-3xl font-bold text-navy-500 mb-2 font-montserrat">
-              🍳 EGGCELENT
+              🍳 Hoschailine
             </h1>
             <p className="text-navy-500/70 font-sans">Owner Dashboard Login</p>
           </div>
