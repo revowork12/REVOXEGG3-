@@ -1,4 +1,4 @@
-# Revoxegg - EGGCELENT
+# Revoxegg - Hoschailine
 
 A modern, responsive egg ordering application built with Next.js 14 App Router and TailwindCSS.
 
@@ -46,7 +46,7 @@ revoxegg/
 ## 🌟 Features
 
 - **Route: `/customer/home`**
-  - Clean, centered title "EGGCELENT" in Montserrat
+  - Clean, centered title "Hoschailine" in Montserrat
   - Subtitle "Order smart. Eat smart."
   - Responsive food gallery with 5 high-quality Unsplash images
   - CTA button with hover effects (scale + shadow)
