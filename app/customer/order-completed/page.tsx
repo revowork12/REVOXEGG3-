@@ -96,7 +96,7 @@ function OrderCompletedContent() {
 
             {/* Sub-message */}
             <p className="text-lg text-navy-500/80 font-sans leading-relaxed">
-              A heartfelt thank-you from <strong>Team Eggcelent</strong>
+              A heartfelt thank-you from <strong>Team Hoschailine</strong>
             </p>
 
             {/* Order Reference */}
