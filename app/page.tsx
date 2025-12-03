@@ -6,7 +6,7 @@ export default function HomePage() {
   const router = useRouter()
   
   useEffect(() => {
-    // Redirect to customer home page with EGGCELENT branding
+    // Redirect to customer home page with Hoschailine branding
     router.replace('/customer/home')
   }, [router])
   
