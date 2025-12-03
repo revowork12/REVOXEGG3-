@@ -116,8 +116,8 @@ export default function CustomerMenu() {
     if (lowerName.includes('pancake')) return '🥞'
     if (lowerName.includes('tiramisu') || lowerName.includes('cake')) return '🍰'
     if (lowerName.includes('pistachio')) return '🥜'
-    if (lowerName.includes('strawberry')) return '🍓'
-    if (lowerName.includes('chocolate') || lowerName.includes('bun')) return '🍫'
+    if (lowerName.includes('strawberry')) || lowerName.includes('bun muska')) return '🍓'
+    if (lowerName.includes('chocolate')) || lowerName.includes('bun muska')) return '🍫'
     if (lowerName.includes('mango')) return '🥭'
     return '🍽️'
   }
@@ -461,3 +461,4 @@ export default function CustomerMenu() {
   )
 
 }
+
