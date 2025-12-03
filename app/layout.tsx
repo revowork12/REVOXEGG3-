@@ -3,7 +3,7 @@ import './globals.css'
 import { AuthProvider } from '@/lib/auth-context'
 
 export const metadata: Metadata = {
-  title: 'Eggcelent - Order smart. Eat smart.',
+  title: 'Hoschailine - Order smart. Eat smart.',
   description: 'Premium egg ordering service',
 }
 
