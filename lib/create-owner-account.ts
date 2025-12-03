@@ -34,7 +34,7 @@ export async function createOwnerAccountSimple(username: string, password: strin
   }
 
   try {
-    const email = `${username}@eggcelent.local`
+    const email = `${username}@hoschailine.local`
     
     const { data, error } = await supabase.auth.signUp({
       email: email,
