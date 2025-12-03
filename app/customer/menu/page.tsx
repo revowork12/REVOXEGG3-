@@ -108,7 +108,7 @@ export default function CustomerMenu() {
     const lowerName = name.toLowerCase()
     if (lowerName.includes('tea')) return '🍵'
     if (lowerName.includes('coffee') || lowerName.includes('kappi')) return '☕'
-    if (lowerName.includes('strawberry') && lowerName.includes('bun')) return '🍓'
+    if (lowerName.includes('strawberry')) return '🍓'
     if (lowerName.includes('mango') && lowerName.includes('peanut')) return '🥭'
     if (lowerName.includes('nutella') || lowerName.includes('nuttela')) return '🍫'
     if (lowerName.includes('bun') || lowerName.includes('bread')) return '🍞'
@@ -460,3 +460,4 @@ export default function CustomerMenu() {
     </div>
   )
 }
+
